@@ -1,0 +1,16 @@
+18.6
+
+სამი ბავშვის დასმა გვრედიგვერდ დასასმელად რამდენიმე ვარიანტი გვაქვს
+
+
+child1 | child2 | child3
+
+child1 | child3 | child2
+
+child2 | child1 | child3
+
+child2 | child3 | child1
+
+child3 | child1 | child2
+
+child3 | child2 | child1
