@@ -1,0 +1,18 @@
+
+a = [1,2,3,4,....m] --> სულ არის n ელემენტი,  პირველი ელემენტის ინდექსია 0 ხოლო ბოლო ინდექსი არის n - 1
+
+v = k --> გვაქვს რაღაც საძიებელი ელემენტი
+
+for(let i = 0; i < n; i ++):
+
+    if v = a[i], then
+        print f"Found value at index {i}"
+        return 0
+    else, then
+        print "Value not Found"
+        return -1
+
+
+
+
+
