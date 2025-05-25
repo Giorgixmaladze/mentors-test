@@ -1,0 +1,221 @@
+[
+    {
+        "id": 1,
+        "title": "Shawshank Redemption",
+        "year": 1994,
+        "genre": [
+            "Drama"
+        ],
+        "director": "Frank Darabont",
+        "cast": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "rating": 9.3,
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "image": "https://resizing.flixster.com/SzNzBSg0ezjiN6IEHyeZ-fF1aqU=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15987_v_h9_at.jpg",
+        "isfavorite": false
+    },
+    {
+        "id": 2,
+        "title": "Godfather",
+        "year": 1972,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "director": "Francis Ford Coppola",
+        "cast": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ],
+        "rating": 9.2,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmRhNzI4NjQtNGU5Ny00ZjE3LWJmMDUtMTAxMWVjYmQzNjJiXkEyXkFqcGc@._V1_.jpg",
+        "isfavorite": false
+    },
+    {
+        "id": 3,
+        "title": "Inception",
+        "year": 2010,
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "director": "Christopher Nolan",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "rating": 8.8,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "image": "https://images.bauerhosting.com/legacy/empire-tmdb/films/27205/images/s2bT29y0ngXxxu2IA8AOzzXTRhd.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80",
+        "isfavorite": false
+    },
+    {
+        "id": 4,
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "director": "Quentin Tarantino",
+        "cast": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson"
+        ],
+        "rating": 8.9,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "image": "https://images.bauerhosting.com/legacy/empire-tmdb/films/680/images/mte63qJaVnoxkkXbHkdFujBnBgd.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80",
+        "isfavorite": false
+    },
+    {
+        "id": 5,
+        "title": "Dark Knight",
+        "year": 2008,
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "director": "Christopher Nolan",
+        "cast": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ],
+        "rating": 9.0,
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfE_qrYMBZ_JB8om-34WGaZARhpX26yWRttqIDvn4_7l--UzX8mxKcPrc59IcvTpEA_G8gPA",
+        "isfavorite": false
+    },
+    {
+        "id": 6,
+        "title": "Interstellar",
+        "year": 2014,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "director": "Christopher Nolan",
+        "cast": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ],
+        "rating": 8.6,
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "isfavorite": false
+    },
+    {
+        "id": 7,
+        "title": "Parasite",
+        "year": 2019,
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "director": "Bong Joon Ho",
+        "cast": [
+            "Kang-ho Song",
+            "Sun-kyun Lee",
+            "Yeo-jeong Jo"
+        ],
+        "rating": 8.5,
+        "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "image": "https://m.media-amazon.com/images/I/81cYnCyFCYL._AC_UF894,1000_QL80_DpWeblab_.jpg",
+        "isfavorite": false
+    },
+    {
+        "id": 8,
+        "title": "Forest Gump",
+        "year": 1994,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "director": "Robert Zemeckis",
+        "cast": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ],
+        "rating": 8.8,
+        "description": "The presidencies of Kennedy and Johnson, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.",
+        "image": "https://m.media-amazon.com/images/I/91++WV6FP4L._AC_UF1000,1000_QL80_.jpg",
+        "isfavorite": false
+    },
+    {
+        "id": 9,
+        "title": "Avengers: Endgame",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "year": 2019,
+        "rating": 8.4,
+        "description": "After the devastating events of Infinity War, the Avengers assemble once more to undo Thanos' actions and restore balance.",
+        "image": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+        "isfavorite": false
+    },
+    {
+        "id": 10,
+        "title": "Spider-Man: No Way Home",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "year": 2021,
+        "rating": 8.2,
+        "description": "With Spider-Man’s identity now revealed, Peter asks Doctor Strange for help — but things go very wrong.",
+        "image": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+        "isfavorite": false
+    },
+    {
+        "id": 11,
+        "title": "The Matrix",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "year": 1999,
+        "rating": 8.7,
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+        "isfavorite": false
+    },
+    {
+        "id": 12,
+        "title": "Gladiator",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "year": 2000,
+        "rating": 8.5,
+        "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "image": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+        "isfavorite": false
+    },
+    {
+        "id": 13,
+        "title": "Coco",
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "year": 2017,
+        "rating": 8.4,
+        "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather.",
+        "image": "https://image.tmdb.org/t/p/w500/gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
+        "isfavorite": false
+    }
+]

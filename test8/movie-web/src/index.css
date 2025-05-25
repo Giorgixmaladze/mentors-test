@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.material-symbols-outlined{
+  cursor: pointer;
+}
+
+@theme{
+  --color-x:rgba(0, 0, 0, 0.67);
+}
