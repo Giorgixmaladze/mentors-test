@@ -1,23 +1,25 @@
 import { createContext, useEffect, useState } from "react";
 import { fetchData } from "../utils/fetch";
-import { setLocal } from "../utils/localStorage";
-import { useNavigate } from "react-router-dom";
+import { getLocal, setLocal } from "../utils/localStorage";
+
 
 export const AuthContext = createContext();
 
 
 const AuthProvider = ({children}) =>{
-    const [favorites,setFavorites] = useState([])
+    const [favorites,setFavorites] = useState(getLocal("favorites") || [])
     const [movies, setMovies] = useState([])
     const [found,setFound] = useState({})
     const [founded,setFounded] = useState(false)
     const [opened,setOpened] = useState(false)
     const [details,setDetails] = useState({})
+
     useEffect(() =>{
         const loadMovies = async() =>{
             const data = await fetchData()
-            setMovies(data || [])
+            setMovies(data)
         }
+        
         loadMovies()
 
     },[])
@@ -29,7 +31,7 @@ const AuthProvider = ({children}) =>{
         setFavorites(updated)
         setLocal("favorites",updated)
     }
-    console.log(favorites)
+
 
     const handleSearch = (e) =>{
         e.preventDefault()

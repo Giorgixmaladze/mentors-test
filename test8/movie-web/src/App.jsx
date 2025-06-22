@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import Home from './components/Home'
 import { Route, Routes } from 'react-router-dom'
 import Favorites from './components/Favorites'
